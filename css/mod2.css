@@ -140,6 +140,6 @@ p {
   }
 }
 /************** mobile *************/
-@media (max-width: 767px){.sp{ 
+@media (max-width: 767px) {.sp { 
 	padding:10px;
 }
